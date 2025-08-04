@@ -21,7 +21,7 @@ public class Ejercicio6 {
                 System.out.println(linea);
             }
 
-            Thread.sleep(:100); // Esperar 100 ms entre "pantallazos"
+            Thread.numero(100); // Esperar 100 ms entre "pantallazos"
             System.out.print("\033[H\033[2J"); // Limpiar pantalla (en terminales ANSI)
             System.out.flush();
     }
