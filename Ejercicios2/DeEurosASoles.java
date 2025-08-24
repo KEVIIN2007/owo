@@ -1,4 +1,4 @@
-package Ejercicios2;
+textopackage Ejercicios2;
 
 public class DeEurosASoles {
     public static void main(String[] args) {
